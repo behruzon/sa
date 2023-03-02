@@ -1,0 +1,157 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+.container {
+    width: 1140px;
+    margin: 0 auto;
+    justify-content: center;
+    align-items: center;
+    background-color: #FFFFFF;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    color: #333333;
+}
+
+
+.box {
+    margin-left: 70px;
+    width: 1000px;
+    height: 500px;
+    background-color: #F2F4F4;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+    display: flex;
+    gap: 150px;
+}
+
+
+.bloc1 p {
+    color: #C1C1C1;
+    font-size: 10px;
+    padding-bottom: 5px;
+}
+
+h2 {
+    color: #4A4A4A;
+    font-size: 40px;
+    margin-bottom: 45px;
+}
+
+span {
+    line-height: 26px;
+    color: #4A4A4A;
+}
+
+img {
+    width: 300px;
+    height: 300px;
+}
+
+.bloc2 p {
+    font-size: 10px;
+    text-align: center;
+    color: #333333;
+}
+
+.btn1 {
+    width: 200px;
+    height: 35px;
+    background-color: #f09d61;
+    border-radius: 10px;
+    border-color: #f09d61;
+    color: #FFFFFF;
+    margin-top: 31px;
+    margin-left: 30px;
+    cursor: pointer;
+}
+
+
+
+.none {
+    display: none;
+    width: 1140px;
+    margin: 0 auto;
+    justify-content: center;
+    align-items: center;
+}
+
+.x {
+    position: absolute;
+    left: 880px;
+    top: 10px;
+    cursor: pointer;
+}
+
+
+.form {
+
+    justify-content: center;
+    width: 900px;
+    height: 450px;
+    position: fixed;
+    top: 100px;
+    margin-left: 120px;
+    display: flex;
+    gap: 20px;
+    border-radius: 10px;
+    background-color: #dcd9d9;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.for {
+    align-items: center;
+    text-align: center;
+}
+
+.img img {
+    align-items: center;
+}
+
+
+
+.for h3 {
+    font-size: 30px;
+    color: #4A4A4A;
+}
+
+
+.for p {
+    text-align: start;
+    padding-left: 145px;
+    font-size: 13px;
+    color: #4A4A4A;
+    margin-top: 10px;
+}
+
+input {
+    width: 300px;
+    height: 35px;
+    background-color: #FFFFFF;
+}
+
+.btn2 {
+    width: 300px;
+    height: 35px;
+    background-color: #f09d61;
+    border-radius: 10px;
+    border-color: #f09d61;
+    color: #FFFFFF;
+    margin-top: 31px;
+    cursor: pointer;
+}
+
+
+.for span {
+    font-size: 10px;
+}
